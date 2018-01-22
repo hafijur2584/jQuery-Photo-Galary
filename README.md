@@ -1,0 +1,1 @@
+This is a jQuery Photo galary.This is usefull for show image.
